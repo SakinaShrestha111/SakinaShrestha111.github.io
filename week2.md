@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Week 2
-by: Michael Adeleke
+by: Sakina Shrestha
 ---
 
-
-went to hippop chicken and ate some wings did some code
+During week 2 
