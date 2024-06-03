@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Week 2
-by: Sakina Shrestha
+title: Week 3
+author: Sakina Shrestha
 ---
 
-During week 2 
+During week 3
